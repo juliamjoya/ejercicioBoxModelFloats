@@ -13,3 +13,29 @@ body {
 .azul {
     background-color: #A8E3FA;
 }
+
+.chico {
+    display: flex;
+    width: auto;
+    height: 6rem;
+    margin: 10px 5px 5px 5px;
+}
+
+.grande {
+    display: flex;
+    width: auto;
+    height: 12rem;
+    margin: 10px 5px 5px 5px;
+}
+
+.mediano {
+    display: flex;
+    width: 50%;
+    height: 12rem;
+    margin: 10px 5px 5px 5px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
